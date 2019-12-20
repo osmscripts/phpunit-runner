@@ -1,6 +1,6 @@
 {
     "name": "osmscripts\/phpunit-runner",
-    "description": "Command-line utility for running PHPUnit on the project in current directory.",
+    "description": "Runs PHPUnit in the current project",
     "license": "GPL-3.0-only",
     "authors": [
         {
